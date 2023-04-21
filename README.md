@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://austinderingallen.github.io/loopstudios-landing-page)
+- Live Site URL: [Loopstudios Landing Page](https://austinderingallen.github.io/loopstudios-landing-page)
 
 ## My process
 
