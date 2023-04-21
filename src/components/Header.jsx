@@ -13,12 +13,12 @@ const Header = () => {
       </div>
       <div className="-z-10">
         <img
-          src="/images/mobile/image-hero.jpg"
+          src="/loopstudios-landing-page/images/mobile/image-hero.jpg"
           alt="Man having immersive experience"
           className="md:hidden"
         />
         <img
-          src="/images/desktop/image-hero.jpg"
+          src="/loopstudios-landing-page/images/desktop/image-hero.jpg"
           alt="Man having immersive experience"
           className="hidden md:block"
         />

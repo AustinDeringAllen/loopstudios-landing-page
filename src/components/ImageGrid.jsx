@@ -1,50 +1,52 @@
+const BASE = "/loopstudios-landing-page";
+
 const GRID_ITEMS = [
   {
     title: "Deep Earth",
-    mImage: "/images/mobile/image-deep-earth",
-    dImage: "/images/desktop/image-deep-earth",
+    mImage: BASE + "/images/mobile/image-deep-earth",
+    dImage: BASE + "/images/desktop/image-deep-earth",
     altText: "Earth In Space",
   },
   {
     title: "Night Arcade",
-    mImage: "/images/mobile/image-night-arcade",
-    dImage: "/images/desktop/image-night-arcade",
+    mImage: BASE + "/images/mobile/image-night-arcade",
+    dImage: BASE + "/images/desktop/image-night-arcade",
     altText: "Skee-ball arcade machine",
   },
   {
     title: "Soccer Team VR",
-    mImage: "/images/mobile/image-soccer-team",
-    dImage: "/images/desktop/image-soccer-team",
+    mImage: BASE + "/images/mobile/image-soccer-team",
+    dImage: BASE + "/images/desktop/image-soccer-team",
     altText: "Soccer Player",
   },
   {
     title: `The Grid`,
-    mImage: "/images/mobile/image-grid",
-    dImage: "/images/desktop/image-grid",
+    mImage: BASE + "/images/mobile/image-grid",
+    dImage: BASE + "/images/desktop/image-grid",
     altText: "Race Car",
   },
   {
     title: "From Up Above VR",
-    mImage: "/images/mobile/image-from-above",
-    dImage: "/images/desktop/image-from-above",
+    mImage: BASE + "/images/mobile/image-from-above",
+    dImage: BASE + "/images/desktop/image-from-above",
     altText: "Curvey Road From Above",
   },
   {
     title: "Pocket Borealis",
-    mImage: "/images/mobile/image-pocket-borealis",
-    dImage: "/images/desktop/image-pocket-borealis",
+    mImage: BASE + "/images/mobile/image-pocket-borealis",
+    dImage: BASE + "/images/desktop/image-pocket-borealis",
     altText: "Aurora Borealis",
   },
   {
     title: "The Curiosity",
-    mImage: "/images/mobile/image-curiosity",
-    dImage: "/images/desktop/image-curiosity",
+    mImage: BASE + "/images/mobile/image-curiosity",
+    dImage: BASE + "/images/desktop/image-curiosity",
     altText: "Mars Rover",
   },
   {
     title: "Make It Fisheye",
-    mImage: "/images/mobile/image-fisheye",
-    dImage: "/images/desktop/image-fisheye",
+    mImage: BASE + "/images/mobile/image-fisheye",
+    dImage: BASE + "/images/desktop/image-fisheye",
     altText: "Fish Eye Lens Image",
   },
 ];

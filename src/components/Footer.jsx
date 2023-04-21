@@ -1,10 +1,19 @@
 const NAV_LINKS = ["About", "Careers", "Events", "Products", "Support"];
 
 const SOCIAL_LINKS = [
-  { title: "Facebook", image: "/images/icon-facebook" },
-  { title: "Twitter", image: "/images/icon-twitter" },
-  { title: "Pinterest", image: "/images/icon-pinterest" },
-  { title: "Instagram", image: "/images/icon-instagram" },
+  {
+    title: "Facebook",
+    image: "/loopstudios-landing-page/images/icon-facebook",
+  },
+  { title: "Twitter", image: "/loopstudios-landing-page/images/icon-twitter" },
+  {
+    title: "Pinterest",
+    image: "/loopstudios-landing-page/images/icon-pinterest",
+  },
+  {
+    title: "Instagram",
+    image: "/loopstudios-landing-page/images/icon-instagram",
+  },
 ];
 
 const Footer = () => {
@@ -12,7 +21,7 @@ const Footer = () => {
     <footer className="bg-black text-white text-[15px] text-center p-12 space-y-12 flex flex-col lg:flex-row lg:justify-between lg:px-28 lg:items-center lg:space-y-0">
       <div className="space-y-6">
         <img
-          src="/images/logo.svg"
+          src="/loopstudios-landing-page/images/logo.svg"
           alt="loopstudios"
           className="w-36 mx-auto lg:mx-0"
         />

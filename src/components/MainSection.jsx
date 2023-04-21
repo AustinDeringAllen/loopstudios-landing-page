@@ -4,12 +4,12 @@ const MainSection = () => {
       <div className="lg:w-9/12">
         {/* lg:w-4/5 lg:px-20 */}
         <img
-          src="/images/mobile/image-interactive.jpg"
+          src="/loopstudios-landing-page/images/mobile/image-interactive.jpg"
           alt="Man having an interactive experience"
           className="md:hidden"
         />
         <img
-          src="/images/desktop/image-interactive.jpg"
+          src="/loopstudios-landing-page/images/desktop/image-interactive.jpg"
           alt="Man having an interactive experience"
           className="hidden md:block"
         />

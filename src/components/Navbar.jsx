@@ -4,7 +4,10 @@ const Navbar = () => {
   return (
     <div className="w-full flex justify-between">
       <div className="w-36">
-        <img src="/images/logo.svg" alt="loopstudios" />
+        <img
+          src="/loopstudios-landing-page/images/logo.svg"
+          alt="loopstudios"
+        />
       </div>
       <div>
         <Mobile />
@@ -17,7 +20,10 @@ const Navbar = () => {
 const Mobile = () => {
   return (
     <div className="md:hidden">
-      <img src="/images/icon-hamburger.svg" alt="Mobile Hamburger Button" />
+      <img
+        src="/loopstudios-landing-page/images/icon-hamburger.svg"
+        alt="Mobile Hamburger Button"
+      />
     </div>
   );
 };
